@@ -53,10 +53,4 @@ To assist financial institutions in evaluating creditworthiness by predicting ap
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/yourusername/credit-risk-model.git
-   cd credit-risk-model
 
